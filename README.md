@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 | ----------|:-------------:|:------------:|:-------------------------:|
 | Node.js   | Solidity      | React        | Firebase-Realtime Database|
 | java      | Ganache       | JavaScript   | MongoDB                   |
-| Python    | Trufflr       | HTML         | phpMyAdmin                |
+| Python    | Truffle       | HTML         | phpMyAdmin                |
 | PHP       | Web3          | CSS          |---------------------------|
 | C/C++     |---------------|--------------|---------------------------|
 
