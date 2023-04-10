@@ -1,4 +1,4 @@
-## Hi   我是王孟暄 👋
+# Hi   我是王孟暄 👋
 
 <!--
 **sharon979/sharon979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 技術.  
-### * 後端   
-#### * 前端
-#### * 區塊鏈
-#### * 資料庫
+## 技術 
+| 後端       | 區塊鏈         | 前端          | 資料庫                    |
+| ----------|:-------------:|:------------:|:-------------------------:|
+| Node.js   | Solidity      | React        | Firebase-Realtime Database|
+| java      | Ganache       | JavaScript   | MongoDB                   |
+| Python    | Trufflr       | HTML         | phpMyAdmin                |
+| PHP       | Web3          | CSS          |---------------------------|
+| C/C++     |---------------|--------------|---------------------------|
+
 
 
