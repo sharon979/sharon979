@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ## 履歷
 
+[履歷＿王孟暄](https://drive.google.com/file/d/1llrepbEtVE77XHluouDHQFnHUyNMUnNJ/view?usp=sharing)
 
 
 
