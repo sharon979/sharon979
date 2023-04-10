@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##技術
+## 技能
+# 後端
+# 前端
+# 區塊鏈
+# 資料庫
 
